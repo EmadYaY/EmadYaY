@@ -2,7 +2,7 @@
 - 👀 I’m interested in all IT worlds 
 - 🌱 I’m currently learning and researching abut the webapplication security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... tw : @iraniAzad80
+- 📫 How to reach me ... tw :
 
 <!---
 EmadYaY/EmadYaY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
