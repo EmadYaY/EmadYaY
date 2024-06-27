@@ -39,6 +39,8 @@ Let's start the hunting 🤑
 
 ✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/)
 
+✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
+
 ---
 ### Honors & awards(also available in LinkedIn profile):
 
