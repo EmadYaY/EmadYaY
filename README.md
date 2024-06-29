@@ -8,7 +8,7 @@ Hope you are great buddy☜(ﾟヮﾟ☜)
 I'm Emad, glad you're here ༼ つ ◕_◕ ༽つ
 Let's start 💻👨🏻‍💻🤑
 ### Socials🌐🔗:
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\u0026logo=instagram\u0026logoColor=white)](https://www.instagram.com/arganexemad/) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\u0026logo=twitter\u0026logoColor=white)](https://twitter.com/ArganexEmad) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\u0026logo=linkedin\u0026logoColor=white)](https://www.linkedin.com/in/fazel-mohammad-ali-pour/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\u0026logo=github\u0026logoColor=white)](https://github.com/EmadYaY)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\u0026logo=linkedin\u0026logoColor=white)](https://www.linkedin.com/in/fazel-mohammad-ali-pour/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\u0026logo=github\u0026logoColor=white)](https://github.com/EmadYaY)
 
 ---
 ### Some About:👇🏻         (⌐■_■)
