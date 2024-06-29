@@ -6,8 +6,8 @@
 ---
 Hope you are great buddy☜(ﾟヮﾟ☜)
 I'm Emad, glad you're here ༼ つ ◕_◕ ༽つ
-Let's start the hunting 🤑
-### Socials🌐🔗(attached:👇🏻☝🏻 ):
+Let's start 💻👨🏻‍💻🤑
+### Socials🌐🔗:
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\u0026logo=instagram\u0026logoColor=white)](https://www.instagram.com/arganexemad/) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\u0026logo=twitter\u0026logoColor=white)](https://twitter.com/ArganexEmad) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\u0026logo=linkedin\u0026logoColor=white)](https://www.linkedin.com/in/fazel-mohammad-ali-pour/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\u0026logo=github\u0026logoColor=white)](https://github.com/EmadYaY)
 
 ---
@@ -41,6 +41,8 @@ Let's start the hunting 🤑
 
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
 
+✍🏻10. [![](https://img.shields.io/badge/A%20Red%20Teamer%E2%80%99s%20Guide%20to%20WiFi%20Exploits-008989)](https://hadess.io/red-teamers-guide-to-wi-fi-exploits-ebook/)
+
 ---
 ### Honors & awards(also available in LinkedIn profile):
 
@@ -52,6 +54,6 @@ Let's start the hunting 🤑
 
 🧑🏻‍💻4. Top 10 WordPress Security Researchers Mar 2024(9th)
 
-Over 60 CVE.
+Over 65 CVE.
 
 ---
