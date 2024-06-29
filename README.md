@@ -20,7 +20,7 @@ Let's start 💻👨🏻‍💻🤑
   ![alt text](https://img.shields.io/badge/Python-3477AC?style=for-the-badge&logo=python&logoColor=orange) ![alt text](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=red) ![alt text](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000000) ![alt text](https://img.shields.io/badge/PHP-1eb5e9?style=for-the-badge&logo=php&logoColor=00000) ![alt text](https://img.shields.io/badge/Shell_Script(bash)-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-### Advisory-Research-Writeup:
+### Publications(Advisory-Research-Writeup):
 🕵️‍♂️Research #attack-surfacee #penetration-test : 
 
 ✍🏻1. [![](https://img.shields.io/badge/Appsmith-2e2be2)](https://hadess.io/appsmith-in-the-wild-part-1/)
