@@ -39,10 +39,11 @@ Let's start 💻👨🏻‍💻🤑
 
 ✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub](https://github.com/HadessCS/Red-team-Interview-Questions)
 
-
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
 
 ✍🏻10. [![](https://img.shields.io/badge/A%20Red%20Teamer%E2%80%99s%20Guide%20to%20WiFi%20Exploits-008989)](https://hadess.io/red-teamers-guide-to-wi-fi-exploits-ebook/)
+
+✍🏻11. [![](https://img.shields.io/badge/Red%20Teamer%20Gadgets-e50f63)](https://hadess.io/red-teamer-gadgets-ebook/)
 
 ---
 ### Honors & awards(also available in LinkedIn profile):
