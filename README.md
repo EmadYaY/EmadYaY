@@ -37,7 +37,7 @@ Let's start 💻👨🏻‍💻🤑
 
 ✍🏻7. [![](https://img.shields.io/badge/Web%20LLM%20Attacks-3982b9)](https://hadess.io/web-llm-attacks/)
 
-✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub](https://github.com/HadessCS/Red-team-Interview-Questions)
+✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 447 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
 
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
 
@@ -56,6 +56,7 @@ Let's start 💻👨🏻‍💻🤑
 
 🧑🏻‍💻4. Top 10 WordPress Security Researchers Mar 2024(9th)
 
-Over 65 CVE.
+Over 65 CVEs ---> [Link!](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/emad)
+
 
 ---
