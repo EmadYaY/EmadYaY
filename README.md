@@ -3,10 +3,11 @@
 
 ![ alt text](https://s8.uupload.ir/files/result_psg7.gif)
 
----
 Hope you are great buddy☜(ﾟヮﾟ☜)
 I'm Emad, glad you're here ༼ つ ◕_◕ ༽つ
 Let's start 💻👨🏻‍💻🤑
+
+---
 ### Socials🌐🔗:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\u0026logo=linkedin\u0026logoColor=white)](https://www.linkedin.com/in/fazel-mohammad-ali-pour/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\u0026logo=github\u0026logoColor=white)](https://github.com/EmadYaY)
 
