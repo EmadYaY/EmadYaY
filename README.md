@@ -37,7 +37,7 @@ Let's start 💻👨🏻‍💻🤑
 
 ✍🏻7. [![](https://img.shields.io/badge/Web%20LLM%20Attacks-3982b9)](https://hadess.io/web-llm-attacks/)
 
-✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 447 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
+✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 452 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
 
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
 
@@ -58,5 +58,8 @@ Let's start 💻👨🏻‍💻🤑
 
 Over 65 CVEs ---> [Link!](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/emad)
 
+---
+### Interviews, podcasts:
+🎙️1. Safe Cast N.27: Common WordPress Vunrtablitys 00:10':25" ---> [Link!](https://castbox.fm/episode/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%A7%D9%85%D9%86%DB%8C%D8%AA---Safe-Cast---%D9%82%D8%B3%D9%85%D8%AA-%D8%A8%DB%8C%D8%B3%D8%AA-%D9%88-%D9%87%D9%81%D8%AA-id3634195-id722824004).
 
 ---
