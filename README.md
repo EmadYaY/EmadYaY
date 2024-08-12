@@ -1,4 +1,8 @@
 ## Emad(ARGANEX) - [ME](https://www.google.com/search?q=fazel+mohammad+ali+pour&rlz=1C1VDKB_enIR1112GB1112&oq=fa&gs_lcrp=EgZjaHJvbWUqDggBEEUYJxg7GIAEGIoFMgYIABBFGDwyDggBEEUYJxg7GIAEGIoFMhIIAhAuGEMYxwEY0QMYgAQYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDI3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Arganex.png" alt="TryHackMe">
+
+
 ### IT Lover  😍👨‍💻🥋 
 
 ![ alt text](https://s8.uupload.ir/files/result_psg7.gif)
