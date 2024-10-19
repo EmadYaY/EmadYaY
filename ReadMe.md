@@ -27,7 +27,7 @@ Let's start 💻👨🏻‍💻🤑
 
 ✍🏻7. [![](https://img.shields.io/badge/Web%20LLM%20Attacks-3982b9)](https://hadess.io/web-llm-attacks/)
 
-✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 500 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
+✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 543 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
 
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
 
@@ -36,6 +36,8 @@ Let's start 💻👨🏻‍💻🤑
 ✍🏻11. [![](https://img.shields.io/badge/Red%20Teamer%20Gadgets-e50f63)](https://hadess.io/red-teamer-gadgets-ebook/)
 
 ✍🏻12. [![](https://img.shields.io/badge/The%20Hacker%E2%80%99s%20Guide%20to%20LLMs-a75021)](https://hadess.io/the-hackers-guide-to-llms-ebook/)
+
+✍🏻13. [![](https://img.shields.io/badge/Art%20of%20Post%20Exploitation-46adb9)](https://hadess.io/art-of-post-exploitation-ebook/)
 
 ---
 ### Honors & awards(also available in LinkedIn profile):
