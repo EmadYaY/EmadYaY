@@ -32,6 +32,7 @@ Let's start 💻👨🏻‍💻🤑
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
 
 ✍🏻10. [![](https://img.shields.io/badge/A%20Red%20Teamer%E2%80%99s%20Guide%20to%20WiFi%20Exploits-008989)](https://hadess.io/red-teamers-guide-to-wi-fi-exploits-ebook/)
+        - Doi: 10.5281/zenodo.14039895
 
 ✍🏻11. [![](https://img.shields.io/badge/Red%20Teamer%20Gadgets-e50f63)](https://hadess.io/red-teamer-gadgets-ebook/)
 
