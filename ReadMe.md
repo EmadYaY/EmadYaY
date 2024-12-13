@@ -14,18 +14,24 @@ Let's start 💻👨🏻‍💻🤑
 🕵️‍♂️Research #attack-surfacee #penetration-test : 
 
 ✍🏻1. [![](https://img.shields.io/badge/Appsmith-2e2be2)](https://hadess.io/appsmith-in-the-wild-part-1/)
-
+        - DOI: 10.5281/zenodo.14190725
+        
 ✍🏻2. [![](https://img.shields.io/badge/Redmine-e22e2b)](https://hadess.io/redmine-attack-surface/)
-
+        - DOI: 10.5281/zenodo.14282576
+        
 ✍🏻3. [![](https://img.shields.io/badge/PiHole-2BE22E)](https://hadess.io/pi-hole-attack-surface/)
 
 ✍🏻4. [![](https://img.shields.io/badge/JenkinsAttackVector-ed9a15)](https://hadess.io/jenkins-attack-vector/)
+        - DOI: 10.5281/zenodo.14282837
 
 ✍🏻5. [![](https://img.shields.io/badge/BrowserAttackSurface-ed6f15)](https://hadess.io/browser-attack-surface/)
-
+        - DOI: 10.5281/zenodo.14234786
+        
 ✍🏻6. [![](https://img.shields.io/badge/Top10WebHackingTechniques2023-A020F0)](https://hadess.io/top-10-web-hacking-techniques-2023/)
-
+        - DOI: 10.5281/zenodo.14292511
+        
 ✍🏻7. [![](https://img.shields.io/badge/Web%20LLM%20Attacks-3982b9)](https://hadess.io/web-llm-attacks/)
+        - DOI: 10.5281/zenodo.14293625
 
 ✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 600 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
 
