@@ -59,7 +59,7 @@ Let's start 💻👨🏻‍💻🤑
 
 Over 65 CVEs ---> [Link!](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/emad)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Arganex.png" alt="Your Image Badge" />
+<img src="https://s8.uupload.ir/files/arganex_5fu0.png" alt="Your Image Badge" />
 
 
 
