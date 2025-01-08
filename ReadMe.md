@@ -43,6 +43,7 @@ Let's start 💻👨🏻‍💻🤑
 ✍🏻11. [![](https://img.shields.io/badge/Red%20Teamer%20Gadgets-e50f63)](https://hadess.io/red-teamer-gadgets-ebook/)
 
 ✍🏻12. [![](https://img.shields.io/badge/The%20Hacker%E2%80%99s%20Guide%20to%20LLMs-a75021)](https://hadess.io/the-hackers-guide-to-llms-ebook/)
+        - Doi: 10.5281/zenodo.14614895
 
 ✍🏻13. [![](https://img.shields.io/badge/Art%20of%20Post%20Exploitation-46adb9)](https://hadess.io/art-of-post-exploitation-ebook/)
 
