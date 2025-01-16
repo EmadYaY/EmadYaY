@@ -33,7 +33,7 @@ Let's start 💻👨🏻‍💻🤑
 ✍🏻7. [![](https://img.shields.io/badge/Web%20LLM%20Attacks-3982b9)](https://hadess.io/web-llm-attacks/)
         - DOI: 10.5281/zenodo.14293625
 
-✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 610 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
+✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 622 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
 
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
 
