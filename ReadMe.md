@@ -14,36 +14,38 @@ Let's start 💻👨🏻‍💻🤑
 🕵️‍♂️Research #attack-surfacee #penetration-test : 
 
 ✍🏻1. [![](https://img.shields.io/badge/Appsmith-2e2be2)](https://hadess.io/appsmith-in-the-wild-part-1/)
-        - DOI: 10.5281/zenodo.14190725
+        - DOI: https://doi.org/10.5281/zenodo.14190725
         
 ✍🏻2. [![](https://img.shields.io/badge/Redmine-e22e2b)](https://hadess.io/redmine-attack-surface/)
-        - DOI: 10.5281/zenodo.14282576
+        - DOI: https://doi.org/10.5281/zenodo.14282576
         
 ✍🏻3. [![](https://img.shields.io/badge/PiHole-2BE22E)](https://hadess.io/pi-hole-attack-surface/)
+        - DOI: https://doi.org/10.5281/zenodo.14837030
 
 ✍🏻4. [![](https://img.shields.io/badge/JenkinsAttackVector-ed9a15)](https://hadess.io/jenkins-attack-vector/)
-        - DOI: 10.5281/zenodo.14282837
+        - DOI: https://doi.org/10.5281/zenodo.14282837
 
 ✍🏻5. [![](https://img.shields.io/badge/BrowserAttackSurface-ed6f15)](https://hadess.io/browser-attack-surface/)
-        - DOI: 10.5281/zenodo.14234786
+        - DOI: https://doi.org/10.5281/zenodo.14234786
         
 ✍🏻6. [![](https://img.shields.io/badge/Top10WebHackingTechniques2023-A020F0)](https://hadess.io/top-10-web-hacking-techniques-2023/)
-        - DOI: 10.5281/zenodo.14292511
+        - DOI: https://doi.org/10.5281/zenodo.14292511
         
 ✍🏻7. [![](https://img.shields.io/badge/Web%20LLM%20Attacks-3982b9)](https://hadess.io/web-llm-attacks/)
-        - DOI: 10.5281/zenodo.14293625
+        - DOI: https://doi.org/10.5281/zenodo.14293625
 
 ✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 622 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
 
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
+        - DOI: https://doi.org/10.5281/zenodo.14749997
 
 ✍🏻10. [![](https://img.shields.io/badge/A%20Red%20Teamer%E2%80%99s%20Guide%20to%20WiFi%20Exploits-008989)](https://hadess.io/red-teamers-guide-to-wi-fi-exploits-ebook/)
-        - Doi: 10.5281/zenodo.14039895
+        - DOI: https://doi.org/10.5281/zenodo.14039895
 
 ✍🏻11. [![](https://img.shields.io/badge/Red%20Teamer%20Gadgets-e50f63)](https://hadess.io/red-teamer-gadgets-ebook/)
 
 ✍🏻12. [![](https://img.shields.io/badge/The%20Hacker%E2%80%99s%20Guide%20to%20LLMs-a75021)](https://hadess.io/the-hackers-guide-to-llms-ebook/)
-        - Doi: 10.5281/zenodo.14614895
+        - DOI: https://doi.org/10.5281/zenodo.14614895
 
 ✍🏻13. [![](https://img.shields.io/badge/Art%20of%20Post%20Exploitation-46adb9)](https://hadess.io/art-of-post-exploitation-ebook/)
 
