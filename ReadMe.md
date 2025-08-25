@@ -20,7 +20,7 @@ Let's start 💻👨🏻‍💻🤑
         - DOI: https://doi.org/10.5281/zenodo.14282576
         
 ✍🏻3. [![](https://img.shields.io/badge/PiHole-2BE22E)](https://hadess.io/pi-hole-attack-surface/)
-        - DOI: https://doi.org/10.5281/zenodo.14837030
+        - DOI: http://dx.doi.org/10.2139/ssrn.5129228
 
 ✍🏻4. [![](https://img.shields.io/badge/JenkinsAttackVector-ed9a15)](https://hadess.io/jenkins-attack-vector/)
         - DOI: https://doi.org/10.5281/zenodo.14282837
@@ -32,23 +32,39 @@ Let's start 💻👨🏻‍💻🤑
         - DOI: https://doi.org/10.5281/zenodo.14292511
         
 ✍🏻7. [![](https://img.shields.io/badge/Web%20LLM%20Attacks-3982b9)](https://hadess.io/web-llm-attacks/)
-        - DOI: https://doi.org/10.5281/zenodo.14293625
+        - DOI: http://dx.doi.org/10.2139/ssrn.5049058
 
 ✍🏻8. [![](https://img.shields.io/badge/Red%20Team%20Interview%20Questions-000000)](https://www.linkedin.com/feed/update/urn:li:activity:7193983010436722688/) [GitHub - 622 ⭐](https://github.com/HadessCS/Red-team-Interview-Questions)
+        - LINK: https://ssrn.com/abstract=5164786
 
 ✍🏻9. [![](https://img.shields.io/badge/Mimikatz%20Comprehensive%20Book-ffff00)](https://hadess.io/mimikatz-comprehensive-guide//)
-        - DOI: https://doi.org/10.5281/zenodo.14749997
+        - DOI: http://dx.doi.org/10.2139/ssrn.5190361
 
 ✍🏻10. [![](https://img.shields.io/badge/A%20Red%20Teamer%E2%80%99s%20Guide%20to%20WiFi%20Exploits-008989)](https://hadess.io/red-teamers-guide-to-wi-fi-exploits-ebook/)
-        - DOI: https://doi.org/10.5281/zenodo.14039895
+        - DOI: http://dx.doi.org/10.2139/ssrn.5256669
 
 ✍🏻11. [![](https://img.shields.io/badge/Red%20Teamer%20Gadgets-e50f63)](https://hadess.io/red-teamer-gadgets-ebook/)
+        - DOI: http://dx.doi.org/10.2139/ssrn.5164849
 
 ✍🏻12. [![](https://img.shields.io/badge/The%20Hacker%E2%80%99s%20Guide%20to%20LLMs-a75021)](https://hadess.io/the-hackers-guide-to-llms-ebook/)
-        - DOI: https://doi.org/10.5281/zenodo.14614895
+        - DOI: http://dx.doi.org/10.2139/ssrn.5168044
 
 ✍🏻13. [![](https://img.shields.io/badge/Art%20of%20Post%20Exploitation-46adb9)](https://hadess.io/art-of-post-exploitation-ebook/)
+        - DOI: http://dx.doi.org/10.2139/ssrn.5190361
+        
+✍🏻14. [![](https://img.shields.io/badge/Cache%20Vulnerabilities-ffffff)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5335918)
+        - DOI: http://dx.doi.org/10.2139/ssrn.5335918
 
+
+### Conference Publication Papers
+
+
+✍🏻1. [Quantum Computing in Cybersecurity and LLM](https://ieeexplore.ieee.org/document/11006202)<br>
+        - DOI: http://dx.doi.org/10.1109/ICWR65219.2025.11006202<br>
+
+✍🏻2. [Oxytocin and Human Exploitation: Oxytocin, the Trust Hormone and its Exploitation in Social Engineering](https://ieeexplore.ieee.org/document/11006171)<br>
+        - DOI: http://dx.doi.org/10.1109/ICWR65219.2025.11006171<br>
+        
 ---
 ### Honors & awards(also available in LinkedIn profile):
 
@@ -64,16 +80,27 @@ Over 65 CVEs ---> [Link!](https://www.wordfence.com/threat-intel/vulnerabilities
 
 <img src="https://s8.uupload.ir/files/arganex_5fu0.png" alt="Your Image Badge" />
 
+---
+
+✨ 1. Top 10 Team Placement – CASH'24 Shaparak CTF Competition.
+
+✨ 2. Ranked 1st Among 60+ Participants in SOC Scholarship Entrance Exam.
+
+✨ 3. Selected for Red Teaming Scholarship Program.
+
+✨ 4. 4 Citations on my published papers.
+
+✨ 5. Top Downloaded Papers, SSRN (July 2025): Authored three papers on SSRN's Top Downloads lists for multiple eJournals.
+
 
 
 ---
 ### Interviews, podcasts:
-🎙️1. Safe Cast N.27: Common WordPress Vunrtablitys 00:10':25" ---> [Link!](https://castbox.fm/episode/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%A7%D9%85%D9%86%DB%8C%D8%AA---Safe-Cast---%D9%82%D8%B3%D9%85%D8%AA-%D8%A8%DB%8C%D8%B3%D8%AA-%D9%88-%D9%87%D9%81%D8%AA-id3634195-id722824004).
+🎙️1. Safe Cast N.27: Common WordPress Vulnerabilities 00:10':25" ---> [Link!](https://castbox.fm/episode/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%A7%D9%85%D9%86%DB%8C%D8%AA---Safe-Cast---%D9%82%D8%B3%D9%85%D8%AA-%D8%A8%DB%8C%D8%B3%D8%AA-%D9%88-%D9%87%D9%81%D8%AA-id3634195-id722824004).
+
+🎙️1. Safe Cast N.89: Deadly Chain: From SharePoint Vulnerability to Full Penetration and ChatGPT Chat Leaks and AI Security Check with Program Guests 00:06':20" ---> [Link!](https://castbox.fm/episode/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A7%D9%BE%DB%8C%D8%B2%D9%88%D8%AF-89--%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1%D8%9B-%D8%A7%D8%B2-%D8%AD%D9%81%D8%B1%D9%87-SharePoint-%D8%AA%D8%A7-%D9%86%D9%81%D9%88%D8%B0-%DA%A9%D8%A7%D9%85%D9%84-id3634195-id835316375?country=us)
 
 ---
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ArganexEmad) 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\u0026logo=linkedin\u0026logoColor=white)](https://www.linkedin.com/in/fazel-mohammad-ali-pour/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\u0026logo=github\u0026logoColor=white)](https://github.com/EmadYaY)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
