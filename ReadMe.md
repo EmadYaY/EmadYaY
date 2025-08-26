@@ -58,10 +58,9 @@ Let's start 💻👨🏻‍💻🤑
 
 ### Conference Publication Papers
 
-
+#### IEEE:
 ✍🏻1. [Quantum Computing in Cybersecurity and LLM](https://ieeexplore.ieee.org/document/11006202)<br>
         - DOI: http://dx.doi.org/10.1109/ICWR65219.2025.11006202<br>
-
 ✍🏻2. [Oxytocin and Human Exploitation: Oxytocin, the Trust Hormone and its Exploitation in Social Engineering](https://ieeexplore.ieee.org/document/11006171)<br>
         - DOI: http://dx.doi.org/10.1109/ICWR65219.2025.11006171<br>
         
