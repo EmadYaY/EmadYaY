@@ -93,7 +93,7 @@ Over 65 CVEs ---> [Link!](https://www.wordfence.com/threat-intel/vulnerabilities
 
 ✨ 7. Top Student of the Purple Team's specialized course.
 
-✨ 8. Top CVE Reacher and User 50 world Rank of WordPress Security by Over 60 Registered CVEs.
+✨ 8. Top CVE Researcher and Under 50 world Rank of WordPress Security by Over 60 Registered CVEs.
 
 ✨ 9. Top Student of the Web Penetration Course (92/100).
 
