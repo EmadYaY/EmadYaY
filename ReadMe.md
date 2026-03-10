@@ -83,13 +83,22 @@ Over 65 CVEs ---> [Link!](https://www.wordfence.com/threat-intel/vulnerabilities
 
 ✨ 1. Top 10 Team Placement – CASH'24 Shaparak CTF Competition.
 
-✨ 2. Ranked 1st Among 60+ Participants in SOC Scholarship Entrance Exam.
+✨ 2. Ranked 1st Among 60+ Participants in the SOC Scholarship Entrance Exam.
 
 ✨ 3. Selected for Red Teaming Scholarship Program.
 
-✨ 4. 4 Citations on my published papers.
+✨ 4. 7 Citations on my published papers.
 
 ✨ 5. Top Downloaded Papers, SSRN (July 2025): Authored three papers on SSRN's Top Downloads lists for multiple eJournals.
+
+✨ 7. Top Student of the Purple Team's specialized course.
+
+✨ 8. Top CVE Reacher and User 50 world Rank of WordPress Security by Over 60 Registered CVEs.
+
+✨ 9. Top Student of the Web Penetration Course (92/100).
+
+
+
 
 
 
